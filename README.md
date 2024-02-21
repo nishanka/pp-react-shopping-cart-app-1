@@ -6,7 +6,7 @@
 ## Project Details
 - ReactJS (This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).)
 - Auth0 Authentication (https://manage.auth0.com/dashboard/us/dev-eth6aa646e74rpfq/)
-- Redux Toolkit (https://www.npmjs.com/package/@reduxjs/toolkit)
+- Redux Toolkit - Create a store using redux-toolkit (https://www.npmjs.com/package/@reduxjs/toolkit)
 - Google Firebase Database (https://console.firebase.google.com/u/0/)
 
 ### Funcionalities
